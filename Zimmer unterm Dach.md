@@ -1,0 +1,2 @@
+Das Zimmer unterm Dach sind Zimmer des [[Altes Amt]]. Allerdings genügen die nicht den Standards, weswegen sie günstiger sind und vermutlich unter der Hand vermietet werden.
+Die [[Studenten]] haben sich dort für ihren Auftrag bei der Wefelsburg eingemietet.

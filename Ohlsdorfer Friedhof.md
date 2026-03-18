@@ -1,0 +1,1 @@
+Alter Friedhof Hamburgs. Ein Teil ist öffentlich zugänglich, ein anderer Teil erwacht. Gerüchteweise leben dort auch Ghoule.

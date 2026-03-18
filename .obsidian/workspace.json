@@ -1,0 +1,322 @@
+{
+  "main": {
+    "id": "558c418cd4a3a287",
+    "type": "split",
+    "children": [
+      {
+        "id": "aac57d8145d66e1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adcf297b02055a83",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "caee3ac0553bdcb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Margret Furhop.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Margret Furhop"
+            }
+          },
+          {
+            "id": "bb1f28b28313e72e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Margret Furhop.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Margret Furhop"
+            }
+          },
+          {
+            "id": "5ef5247769fe2311",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brand.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Brand"
+            }
+          },
+          {
+            "id": "af97e40a97d40ee1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quest The Bird is the Word.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Quest The Bird is the Word"
+            }
+          },
+          {
+            "id": "01ab0f768155b9cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Klofrau.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Klofrau"
+            }
+          },
+          {
+            "id": "95069c81629b6f00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lockvogel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lockvogel"
+            }
+          },
+          {
+            "id": "7787e36488ecc06f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Birdie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Birdie"
+            }
+          },
+          {
+            "id": "f06c3f686676a405",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arndt Bernhard Birkmann Alvarez.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arndt Bernhard Birkmann Alvarez"
+            }
+          },
+          {
+            "id": "03545aaefed58666",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Korallenherz.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Korallenherz"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f6beeed6d981d6f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "6275822cb7d8df32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c755831360ea3bbb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "66c02c35ed409456",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3f08d4526fff8092",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "042e152385f6e7d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee5e19aefa7b8b79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d999371dc7d7be78",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "a336a3a41922adb3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Miro.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Miro"
+            }
+          },
+          {
+            "id": "c7d0b75a8c2f8f32",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c82865f743cd9123",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Miro.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Miro"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "adcf297b02055a83",
+  "lastOpenFiles": [
+    "Die Zwille.md",
+    "Miro.md",
+    "Ghoule.md",
+    "Säge.md",
+    "Quest Studentenrettung.md",
+    "Sryke.md",
+    "Klofrau.md",
+    "Margret Furhop.md",
+    "Mama Mo.md",
+    "Duke.md",
+    "Maya.md",
+    "Low Caps.md",
+    "Lola.md",
+    "Sally.md",
+    "Stormarn.md",
+    "Quest The Bird is the Word.md",
+    "Wassergeist.md",
+    "Loki.md",
+    "Madame Mo.md",
+    "Flutkind.md",
+    "Magazinkeller.md",
+    "Portier.md",
+    "Gerald Meyer.md",
+    "Peter Sachs.md",
+    "Questinfo The Bird is the Word.md",
+    "Info11.md",
+    "Untitled.canvas"
+  ]
+}

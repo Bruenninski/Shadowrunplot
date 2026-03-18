@@ -1,0 +1,3 @@
+- Die Wohnung der Studenten [[Adrian Dembolo]], [[Hannes von Streben]], [[Daniela Donati]], [[Sebastian Rasch]]
+- befindet sich in Hamburg
+- [[schwarzmagischer Nazidolch]] wurde von [[Flutkind]] entwendet

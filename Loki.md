@@ -1,0 +1,1 @@
+Der Hund von [[Stryke]]

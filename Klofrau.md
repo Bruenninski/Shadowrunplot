@@ -1,0 +1,1 @@
+Es gibt mehrere Klofrauen in [[Altes Amt]]. Eine davon ist [[Mama Mo]], die andere ist [[Margret Furhop]]

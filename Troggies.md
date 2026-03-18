@@ -1,0 +1,3 @@
+- Troll/Orkband
+- treten auf der Messe auf
+- durchaus bekannt, aber keine Weltstars

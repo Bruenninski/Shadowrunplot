@@ -1,0 +1,5 @@
+- Ein Dolch, der im Besitz der [[Studenten]] war.
+- vermutlich aus einem Nazibunker geborgen
+- von [[Flutkind]] aus [[Hackerstraße 23, Studentenwohnung]] entwendet
+- befindet sich bei Flutkinds Taliskrämer Kontakt
+- wurde versucht von roter Frau zu stehlen

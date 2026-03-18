@@ -1,0 +1,1 @@
+Bar, in der die [[Spieler]] [[Prof Birnschein]] getroffen haben. Dort haben sie die [[Quest Studentenrettung]] bekommen.

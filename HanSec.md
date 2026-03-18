@@ -1,0 +1,1 @@
+Security Firma in Hamburg. Steht für Hanse Security und übernimmt Polizeiaufgaben

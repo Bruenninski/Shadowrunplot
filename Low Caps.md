@@ -1,0 +1,1 @@
+Gruppe von Konzernhassern, die beim [[Bunker Hamburg]] leben
