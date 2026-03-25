@@ -24,6 +24,10 @@ Für Dr. Eltan ist Zauberei angewandte Metaphysik.
 * **Die Rolle der Geister:** Seine Beziehung zu [[Leif]] (einem [[Luftgeist]]) basiert auf Respekt und Kooperation. Er führt Geister nicht durch Zwang, sondern durch eine Form von diplomatischer Führung.
 * **Peer-Review:** Sein Austausch mit [[Prof Juna Albrecht]] zeigt, dass er seine moralischen Entscheidungen nicht isoliert trifft, sondern sie im Diskurs mit Gleichgesinnten reflektiert.
 
+### 5. Fallanalyse: [[Quest The Bird is the Word]]
+* **Analytische Beobachtung:** Miro erkannte Tätowierungen bei [[Karl]], die Symbole der Gangs aus [[Big Willy]] enthielten.
+* **Magische Unterstützung:** Er beschwor einen Stufe 5 [[Luftgeist]] mit der zusätzlichen Kraft [[Grauen]], um das Team zu unterstützen.
+
 ---
 
 ## Spielwerte & Fähigkeiten

@@ -1,0 +1,2 @@
+Schiffswerft in Hamburg an der Elbe. 
+Es gibt dort Berichte über Beschädigungen, die durch große weiße Zelte verdeckt werden. In der Nähe dieser Zelte kam es zu Unruhen und Revolten.

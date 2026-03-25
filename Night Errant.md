@@ -1,0 +1,2 @@
+Ein privater Sicherheits- und Polizeidienstleister der Ares-Konzerngruppe. 
+Ein direkter Konkurrent zu [[Lonestar]]. [[Brand]] nutzte eine gefälschte Identität als Night Errant Mitarbeiter, um sich einer Kontrolle zu entziehen.

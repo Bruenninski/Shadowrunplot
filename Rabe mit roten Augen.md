@@ -1,0 +1,2 @@
+Ein beschworener Wächtergeist aus einer Hexentradition (vermutlich von der Hexe [[Lola]]). 
+Er erscheint als Rabe mit glühend roten Augen und kann zur Kommunikation sowie zur Überwachung eingesetzt werden. Er zeigt oft eine Aura von Wut.
