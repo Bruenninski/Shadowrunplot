@@ -1,3 +1,4 @@
+
 Metatyp: Mensch
 Alter: Mitte 50
 Besitzer des [[Bernd Alvares Golfclub]].
