@@ -2,3 +2,4 @@
 - Hass auf Konzerne
 - haben [[INRI]] erlaubt, den Bunker zu öffnen, um den nach dem Einsatz selber in Besitz zu nehmen
 - Haben Flutkinds Kontakt um mit [[Naga]] in Kontakt zu treten für gemeinsame Antikonzernaktionen
+- Es sind die [[Low Caps]]

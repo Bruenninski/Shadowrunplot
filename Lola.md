@@ -1,1 +1,2 @@
 Eine rothaarige Hexe aus dem [[Hexenzirkel]] der auf der Suche nach der [[schwarzmagische Enigma]] ist. Bezeichnet [[Flutkind]] als Schnabli
+grüne Augen, weißes Gewand)

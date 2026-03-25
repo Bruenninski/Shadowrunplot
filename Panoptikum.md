@@ -1,0 +1,1 @@
+Eine art Kneipe in der hamburger Matrix. Wird hauptsächlich von Deckern als virtueller Treffpunkt genutzt

@@ -1,0 +1,1 @@
+Sie wohnt in dem Viertel um die alte [[Fleischfabrik]] und ist ein Kopf der Anti Ghoul Proteste

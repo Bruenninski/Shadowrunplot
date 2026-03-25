@@ -1,0 +1,1 @@
+Eine der Anführer der [[Ghoule]], neben [[Iwo]]

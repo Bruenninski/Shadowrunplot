@@ -1,0 +1,1 @@
+Einer der Anführer der [[Ghoule]] neben [[Linda]]

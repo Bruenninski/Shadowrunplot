@@ -6,3 +6,4 @@ versteckte Waffe im Arm
 Connections:
 [[Grimm]]
 [[Doc Morris]]
+[[Cäptn Iglu]]

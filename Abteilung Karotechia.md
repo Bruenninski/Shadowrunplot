@@ -1,0 +1,1 @@
+Abteilung der Nazis, scheint eine Verbindung zur [[schwarzmagische Enigma]] zu haben.
