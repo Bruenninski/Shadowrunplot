@@ -1,1 +1,6 @@
-DÜPPEL (REALISTISCH, VOLLSENSORISCH, FLÄCHENWIRKUNG) Art: P Reichweite: BF (F) Dauer: A Entzug: KS – 1 Lockvogel ist eine Variante des Zaubers Chaos (S. 117), die nur auf technologische Sensoren wirkt. Der Sensor wird mit einem Strom verschiedener Impulse über utet, der sein Zielsuchprogramm verwirrt. Jeder Nettoerfolg bei einer Spruchzaubereiprobe gegen die Objektwiderstandsprobe des Sensors senkt die Sensorstufe um 1. Lockvogel wirkt gegen ein einzelnes Ziel, Düppel ist ein Flächenzauber. 
+DÜPPEL
+(REALISTISCH, VOLLSENSORISCH)
+Art: P Reichweite: BF (F) Schaden: —
+Dauer: A Entzug: KS – 1
+
+Dieser Zauber ist eine Flächenvariante des Zaubers Lockvogel (einer Variante von Chaos), die nur auf technologische Sensoren wirkt. Der Sensor wird mit einem Strom verschiedener Impulse überflutet, der sein Zielsuchprogramm verwirrt. Jeder Nettoerfolg bei einer Spruchzaubereiprobe gegen die Objektwiderstandsprobe des Sensors senkt die Sensorstufe um 1. Düppel wirkt auf alle technologischen Sensoren im Wirkungsbereich.

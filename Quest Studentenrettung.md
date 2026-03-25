@@ -22,7 +22,7 @@ Außerdem gibt es einige Wachleute und die [[Anarchisten]].
 
 Es wird ein Hintereingang über eine alte [[Fleischfabrik]] aufgeklärt. Die Informationen dazu kommen von [[Grimm]], der auch einen alten [[Cadillac]] im Keller der [[Fleischfabrik]] erwähnt, den er gerne hätte.
 Die [[Fleischfabrik]] ist von [[Ghoule]]n besetzt.
-Die [[Ghoule]] wollen als Gegenleistung für die Passage Strom, Leichen oder dsa gegen die [[Ghoulhasser der Region]] vorgegangen wird.
+Die [[Ghoule]] wollen als Gegenleistung für die Passage Strom, Leichen oder das gegen die [[Ghoulhasser der Region]] vorgegangen wird.
 
 [[Brand]] stellt die Stromversorgung wieder her und die Passage durch den Keller der Ghoule wird möglich.
 
@@ -56,7 +56,7 @@ Samstag 23:15
 Die [[Spieler]] verlassen den [[Bunker Hamburg]] durch den Haupteingang und machen sich auf den Weg nach [[Altes Amt]] in [[Wefelsburg]].
 
 Sonntag 2:15
-Ankunf kurz vor [[Wefelsburg]].
+Ankunft kurz vor [[Wefelsburg]].
 Dort findet die nächsten Tage eine große Messe statt.
 [[Brand]] versorgt alle mit Karten für die Messe. Dort werden unter anderem die [[Troggies]] auftreten.
 Die [[Spieler]] verstecken verbotene Gegenstände wie Schrotflinten, Sprengstoff, Sniper im Wald und fahren in die Stadt. Dort begegnen sie einer Polizeikontrolle, die sie nach einem kurzen Gespräch passieren lässt.
