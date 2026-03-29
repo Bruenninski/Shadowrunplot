@@ -1,1 +1,1 @@
-Die [[Korallenherz]]
+Siehe [[Korallenherz]]

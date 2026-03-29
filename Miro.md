@@ -25,8 +25,12 @@ Für Dr. Eltan ist Zauberei angewandte Metaphysik.
 * **Peer-Review:** Sein Austausch mit [[Prof Juna Albrecht]] zeigt, dass er seine moralischen Entscheidungen nicht isoliert trifft, sondern sie im Diskurs mit Gleichgesinnten reflektiert.
 
 ### 5. Fallanalyse: [[Quest The Bird is the Word]]
-* **Analytische Beobachtung:** Miro erkannte Tätowierungen bei [[Karl]], die Symbole der Gangs aus [[Big Willy]] enthielten.
-* **Magische Unterstützung:** Er beschwor einen Stufe 5 [[Luftgeist]] mit der zusätzlichen Kraft [[Grauen]], um das Team zu unterstützen.
+*   **Analytische Beobachtung:** Miro erkannte Tätowierungen bei [[Karl]], die Symbole der Gangs aus [[Big Willy]] enthielten.
+*   **Magische Unterstützung:** Er beschwor einen Stufe 5 [[Luftgeist]] mit der zusätzlichen Kraft [[Grauen]], um das Team zu unterstützen.
+*   **Spurensicherung:** Nutzte den Zauberspruch [[Katalog]], um die Besitztümer der Leichen von [[Birdie]] und [[Wolfgang]] zu erfassen.
+*   **Befragung:** Interviewte [[Fiona]] und erhielt die Kommlinks sowie weitere Beweisstücke.
+*   **Infiltration:** Erhielt zusammen mit [[Flutkind]] Mitarbeiterkleidung von [[Karl]], um sich diskret im Club bewegen zu können.
+
 
 ---
 

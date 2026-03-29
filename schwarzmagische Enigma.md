@@ -15,4 +15,6 @@ Verschwörungstheorien:
 - zur Beschwörung des Ragnarök
 
 Zur Verschlüsselung von Hexenwissen aus alten Zeiten
-Wertvoll um an verschlüsseltes Hexenwissen zu kommen
+Wertvoll um an verschlüsseltes Hexenwissen zu kommen.
+
+Wurde von [[Flutkind]] zur Untersuchung an [[Rama]] übergeben.

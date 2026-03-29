@@ -4,49 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "aac57d8145d66e1e",
+        "id": "d3441b5a829bb757",
         "type": "tabs",
         "children": [
           {
-            "id": "af97e40a97d40ee1",
+            "id": "68f2431c0bb9aec3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lonestar.md",
+                "file": "Arndt Bernhard Birkmann Alvarez.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lonestar"
+              "title": "Arndt Bernhard Birkmann Alvarez"
             }
           },
           {
-            "id": "95069c81629b6f00",
+            "id": "a68cb414c7c659a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lockvogel.md",
+                "file": "Stryke.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lockvogel"
-            }
-          },
-          {
-            "id": "03545aaefed58666",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nebel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nebel"
+              "title": "Stryke"
             }
           }
         ]
@@ -106,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.5
   },
   "right": {
     "id": "042e152385f6e7d7",
@@ -122,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lonestar.md",
+                "file": "Arndt Bernhard Birkmann Alvarez.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf Lonestar"
+              "title": "Rückverweise auf Arndt Bernhard Birkmann Alvarez"
             }
           },
           {
@@ -196,27 +182,37 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "af97e40a97d40ee1",
+  "active": "68f2431c0bb9aec3",
   "lastOpenFiles": [
-    "Nebel.md",
-    "Flutkind.md",
-    "Quest Studentenrettung.md",
-    "Miro.md",
-    "Carlo Calutschi.md",
-    "physical Mask.md",
-    "Rabe mit roten Augen.md",
-    "Night Errant.md",
-    "Lonestar.md",
-    "Haihappen Heino.md",
-    "Erzengel mit Flammenschwert.md",
-    "Combat Golfer.md",
-    "Blohm und Voss.md",
-    "all_links.txt",
-    "existing_files.txt",
     "Quest The Bird is the Word.md",
     "Questinfo The Bird is the Word.md",
-    "Korallenherz.md",
     "Arndt Bernhard Birkmann Alvarez.md",
+    "ABBA.md",
+    "Bernd Alvares Golfclub.md",
+    "Birdie.md",
+    "Karom.md",
+    "Nanitencreme.md",
+    "Stryke.md",
+    "Spieler.md",
+    "Brand.md",
+    "Cäptn Iglu.md",
+    "Katalog.md",
+    "Pasted image 20260325200318.png",
+    "Schnabeltier.md",
+    "Säge.md",
+    "Foxy Lady.md",
+    "Düppel.md",
+    "Yamaha Growler.md",
+    "Grimm.md",
+    "Hackerstraße 23, Studentenwohnung.md",
+    "Einfluss.md",
+    "Lockvogel.md",
+    "Flutkind.md",
+    "Nebel.md",
+    "Geist des Menschen.md",
+    "Quest Studentenrettung.md",
+    "all_links.txt",
+    "existing_files.txt",
     "shadowrun Regelbücher/SR5-grundregelwerk.pdfZone.Identifier",
     "shadowrun Regelbücher/Shadowrun_Run_&_Gun.pdf",
     "shadowrun Regelbücher/Street_Grimoire_5th_edition.pdf",
@@ -225,15 +221,6 @@
     "shadowrun Regelbücher/SR5-schattenzauber-.pdf",
     "shadowrun Regelbücher/SR5-schattenläufer.pdf",
     "shadowrun Regelbücher/SR5-schattenläufer.pdfZone.Identifier",
-    "Birdie.md",
-    "Humanis.md",
-    "Schnabeltier.md",
-    "Tom Thompsen.md",
-    "Demeko Aktuell.md",
-    "Nina Hammerfall.md",
-    "Lola.md",
-    "Wefelsburg.md",
-    "Wolfgang Becker.md",
     "Untitled.canvas"
   ]
 }

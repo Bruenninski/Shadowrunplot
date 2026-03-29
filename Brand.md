@@ -36,6 +36,11 @@ Brand ist ein Zwerg und der Decker des Teams. Er bewegt sich in der Matrix mit c
 ### [[Quest The Bird is the Word]]
 *   Analysierte die Nachricht auf [[Stryke]]s Handy und stellte fest, dass es sich um einen professionellen Einschleusungs-Hack handelt.
 *   Fand entscheidende Projektile in den Wänden des Tatorts, die auf den Tathergang hindeuten.
+*   Hackte das Sicherheitssystem an der Grenze zu [[Stormarn]], um [[Flutkind]]s gefälschte SIN als Zeugenschutzprogramm zu legitimieren.
+*   Hackte [[Birdie]]s Kommlink und fand Informationen über dessen Widersacher [[Karom]] sowie anstehende Termine.
+*   Analysierte die Serverdaten des Golfclubs und rekonstruierte den Weg des Mörders durch das Gebäude.
+*   Bestellte Drogen bei [[Haihappen Heino]].
+
 
 ---
 
@@ -54,3 +59,12 @@ Brand ist ein Zwerg und der Decker des Teams. Er bewegt sich in der Matrix mit c
 *   **Fahrzeug:** Eine frisch lackierte Motorrad
 *   **Hardware:** Hochleistungs-Cyberdeck.
 *   **Besonderes:** Augendrohne für diskrete Aufklärung.
+
+
+Warum früher der Allräuber und was hat er aufm Fischmarkt gemacht
+
+Wollte imemr Decker werden, anstatt Koisten zu schleppen
+
+stand vorm Aal reiner, urenkel des Aaldieter
+knackte dort ein digitales "Würfelspiel" dabei ist ein Aale ICE gestartet, dass [[Brand]]s Deck vollgeschleimt hat, sein Onkel Borgold hat ihn dann bei der Polizei ausgelöst und fand es sehr lustig und nannte ihn Aalräuber
+Im Panoptikum gibt es noch Posts eines Eelthiefs14 aus seiner Vergangenheit

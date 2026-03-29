@@ -28,10 +28,10 @@ Am nächsten Morgen soll es nach [[Stormarn]] gehen.
 [[Stryke]] sucht nach Eingangsbeschränkungen nach [[Stormarn]] findet aber nichts.
 [[Flutkind]] telefoniert mit [[Big D]] um an Informationen zu kommen, wie sie nach [[Stormarn]] kommen sollen. Dieser gibt den Hinweis, dass die Security dort bestechlich ist.
 
-Um [[Stormarn]] ist eine Mauer mit Stacheldraht und Hochspannung sowie Copterdrohnen als Security. Alle paar hundert Meter gibt es Wachtürme, die bewaffnet sein könten. Die Zufahrt sieht wie ein alter Grenzposten aus.
+Um [[Stormarn]] ist eine Mauer mit Stacheldraht und Hochspannung sowie Copterdrohnen als Security. Alle paar hundert Meter gibt es Wachtürme, die bewaffnet sein könnten. Die Zufahrt sieht wie ein alter Grenzposten aus.
 [[Miro]] wird kurz angehalten und nach einem kurzen Gespräch passieren lassen.
 
-[[Brand]] kommt in einem grauen schmuddeligen casual Hoodie aus seinem frisch lackierten Motorrad. Er wird gefragt, ob er sich verfahren hat. Er ruft die anderen an, weil die Wachen ihn nicht durchlassen wollen. Er verweist auf seine Kollegen, die das mit dem durch kommen schon klären werden.
+[[Brand]] kommt in einem grauen schmuddeligen casual Hoodie auf seinem frisch lackierten Motorrad. Er wird gefragt, ob er sich verfahren hat. Er ruft die anderen an, weil die Wachen ihn nicht durchlassen wollen. Er verweist auf seine Kollegen, die das mit dem durch kommen schon klären werden.
 Als die anderen beiden ankommen kommt von den Sicherhetsleuten schon ein "ihr seid also die berüchtigten Kollegen". [[Stryke]] reicht seine SIN und bekommt ein OK vom SIN Lesegerät zurück. [[Brand]]s SIN verursacht ein grünes blinken und [[Flutkind]] bekommt bei seiner SIN eine rote Lampe. [[Flutkind]] wird gebeten auszusteigen und die Wachen ziehen ihre Schrotflinten. [[Flutkind]] soll die Hände aufs Autodach legen, er folgt dem Befehl.
 Die Security Leute rufen nach ihrem Boss.
 [[Brand]] schlägt vor, dass die den Test wiederholen sollen. Daraufhin fordern sie [[Brand]] auf, ruhig zu sein.
@@ -61,7 +61,7 @@ Die [[Spieler]] bitten, sich kurz beraten zu dürfen.
 Danach verhandeln die [[Spieler]] 1500€ Spesen und 10k gesamt pro Person (7500€ für Flutkind)
 Siehe [[Questinfo The Bird is the Word]]
 
-[[Birdie]] war mit Caddie Wolfgang am Vortag zum Abendessen eingeladen. Niemand wusste vorher vom treffen.
+[[Birdie]] war mit Caddie [[Wolfgang]] am Vortag zum Abendessen eingeladen. Niemand wusste vorher vom treffen.
 Die 3 saßen im Nebenraum Killer betrat den Raum und schoß bei rein kommen, der Caddie wurde in den Kopf geschoßen. Birdie versuchte beim nachladen die Waffe zu greifen wurde dann in den Bauch geschossen.
 Der Mörder: Mittelgroß, schlank, recht jung, dunkler Kapu
 verschiedenes Personal sagte, dass ein Mann nach der Beschreibung in verschiedenen Gebäudeteilen gesehen wurde. Er reagierte nicht auf Ansprache des Personals, daraufhin riefen sie die Nachtwächter, aber der Mörder war schon geflohen.
@@ -80,5 +80,47 @@ Die [[Spieler]] besichtigen erst einmal den Nebenraum. Der Raum ist recht klein,
 Ein Ork in bediensteten uniform ist am sauber machen. Das ist der Hausmeister [[Karl]]. Blut und Hirn ist an Teppich und Wand. [[Brand]] weist [[Stryke]] auf die Kugeln hin. [[Karl]] ist über und über tätowiert. [[Miro]] ist sich sicher, dass ein paar der Symbole zu [[Big Willy]] gehören. [[Karl]] kann die [[Spieler]] zu den Kühltruhen führen und zu den Servern. 
 
 [[Karl]] führt die [[Spieler]] in den Keller zu den Kühltruhen. Beide Leichen sind in schwarze Folie eingewickelt.  [[Birdie]] ist tatsächlich an der Bauchwunde gestorben und Wolfgang fehlt der halbe Kopf.
+
+----
+
+[[Miro]] wirkt [[Katalog]] um zu erfahren, was die Leichen dabei haben. Sie haben keine Kommlinks dabei. Ansonsten sind Lebensmittel und Clubbedarf da.
+[[Stryke]] macht Fotos von den Toten.
+Die [[Spieler]] überlegen, dass [[Stryke]] einen guten Caddie abgeben könnte.
+Sie überlegen, dass sie 
+- Infos von Birdie benötigen
+- Matrixdaten analysieren (Kameras des Clubs)
+- Backgroundstories von [[Wolfgang]] und [[Birdie]]
+- nächste Termine von [[Birdie]]
+- Koffer und Gepäck durchsuchen
+- Karl und Fiona interviewen
+
+[[Miro]] fragt [[Fiona]] wo die Koffer sind. [[Miro]] erhält die Kommlinks und einen Pappkarton. 
+In dem Karton sind ein Handy und eine [[Nanitencreme]]. In den Koffern sind alle möglichen Arten von Klamotten und in dem einen Koffer seine Golfausrüstung. 
+Es ist Extravagantes dabei von Leder mit eingenähter Panzerung bis Anzug und für heiß bis kalt. Kulturbeutel etc.
+[[Stryke]] macht eine schnelle suche nach Masken um eventuell Schutz zu gewährleisten. Er bestellt dann einen Maskenrohling bei [[Maya]]
+
+[[Brand]] spricht [[Karl]] an und fragt ihn, was er gesehen hat. [[Karl]] behauptet, nichts gesehen zu haben, da er noch nicht  gearbeitet hatte, aber mit [[Arndt Bernhard Birkmann Alvarez]] die Leichen in den Keller gebracht zu haben.
+Er meint, dass [[Arndt Bernhard Birkmann Alvarez]] fast alle weg geschickt hätte und kaum einer im Club war, außer [[Nana]], der Nachtwächter, die Gäste und [[Arndt Bernhard Birkmann Alvarez]]. Gestern hatte wohl [[Hubert Kramer]] als Nachtwächter Dienst.
+[[Arndt Bernhard Birkmann Alvarez]] ist wohl relativ streng, auch was die Übernachtung von Bediensteten in der Anlage angeht. Er findet es wohl auch nicht gut, wenn die [[Spieler]] länger im Club sind.
+[[Karl]] lässt sich von [[Brand]] und [[Flutkind]] bestechen und gibt den Hinweis, dass noch Mitarbeiterkleidung im Lager ist. Er holt die Bedienstetenkleidung und übergibt sie an [[Miro]] und [[Flutkind]].
+[[Flutkind]] durchsucht die Räume und [[Brand]] will das Kommlink hacken.
+Vorher sieht auch er die [[Nanitencreme]]. Er identifiziert es als eine Art Highend Schminke. Er prüft, ob die Leichen die [[Nanitencreme]] tragen, das ist scheinbar nicht der Fall.
+[[Flutkind]] findet in der Nähe des Fitnessraumes eine Minidrohne, die gerade auf einer Hantelbank rum klettert. Er versucht sie zu fangen, allerdings fliegt sie durch seine Finger und schwirrt Richtung Saunagarten ab.
+[[Brand]] versucht das Kommlink zu hacken. Es ist schwer, aber er schafft es, sich eine Backdoor zu bauen und in das Kommlink einzudringen. Er kann das Kommlink entsperren und findet heraus, dass es [[Birdie]]s Handy ist. Dort drauf ist seine SIN und ein Nachrichtenverlauf mit einer PR Abteilung und [[Wolfgang]], in der steht, dass [[Wolfgang]] in einem anderen Hotel eingechecked sind.
+Mit der PR Abteilung steht, dass noch ein paar Auftritte vor dem Coup ist, diese aber noch nicht fest sind und sie ihm ein paar Stunden vorher Bescheid geben. Seine Homee Fans kommen aus Hamburg und sollen nicht enttäucht werden. Sein Widersacher heißt [[Karom]].
+[[Brand]] richtet eine Nachrichtenweiterleitung an alle ein.
+Danach geht er in den Fitnessraum zu [[Flutkind]]. Dieser berichtet ihm, dass die Minidrohne Richtung Saunagarten geflogen ist.
+Er kann es auf Entfernung noch entdecken, schafft es aber nicht, ihr noch Daten zu entlocken.
+Danach geht [[Brand]] in den Serverraum und durchforstet die Daten.
+[[Stryke]] fängt an, sich mit der Golfausrüstung vertraut zu machen. Dort ist ein kleiner Minicomputer mit Display drin, etwa 20 hochwergige AACG Golfbälle, 14 Schläger und eine geladene Ares Predator sowie 3 Magazine Munition. 
+
+[[Brand]] findet eine kurze, aber von der automatischen Routine nicht als relevant eingestufte Störung auf der Herrentoilette. Danach kommt eine Kapuzenpullovergestalt, die erst Richtung Saune geht, dort umdreht, als sie die Reinigungskraft sieht und dann durch den Fitnessraum richtung Cafe, dann über REstaurant, Lager zum Speisesaal und stürmt dort mit der Schrotflinte rein und kommt mit blutigen Fußspuren heraus und verschwindet dann wieder in der Herrentoilette.
+Er hat außerdem das Gesicht schwarz gefärbt und bewegt sich so, dass er schlechter erkannt wird. Das ganze fand etwa 20:30 statt.
+
+[[Miro]] und [[Stryke]] ziehen sich die Arbeiteruniform an, sie bringen [[Birdie]]s Gepäck zum Auto, während [[Brand]] schon einmal in Richtung der Herrentoilette geht.
+Er stellt fest, dass eines der Fenster mit LowTech manipuliert wurde.
+Er sieht ein paar Fußspuren durch die Beete dahinter führen.
+Die anderen kommen hinterher und [[Stryke]] versucht die Fährte zu lesen. 
+[[Arndt Bernhard Birkmann Alvarez|ABBA]]
 
 

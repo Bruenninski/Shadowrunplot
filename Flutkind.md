@@ -35,7 +35,11 @@ Flutkind hat eine tiefe Verbindung zu **[[Wassergeister]]n**. Er beschwört sie 
 ### [[Quest The Bird is the Word]]
 *   Übernimmt die gefährliche Rolle als **[[Lockvogel]]** für den ermordeten Combat Golfer [[Birdie]], da er vom Metatyp (Elf) passt.
 *   Verhandelte eine Zusatzvergütung für diese Rolle (7.500 € Basis + Spesen).
-*   Nutzt seine Tarnung, um in **[[Stormarn]]** und im **[[Bernd Alvares Golfclub]]** zu ermitteln.
+*   Kaufte sich einen teuren Anzug, um in **[[Stormarn]]** und im **[[Bernd Alvares Golfclub]]** als Golfprofi aufzutreten.
+*   Übergab die [[schwarzmagische Enigma]] an [[Rama]] zur weiteren Untersuchung.
+*   Bestach zusammen mit [[Brand]] den Hausmeister [[Karl]], um an Mitarbeiterkleidung zu kommen.
+*   Entdeckte eine Minidrohne im Fitnessraum des Golfclubs, die jedoch in den Saunagarten entkam.
+
 
 ---
 

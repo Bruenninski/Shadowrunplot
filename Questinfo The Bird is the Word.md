@@ -1,4 +1,4 @@
-- 1500€ Spesen und 10k gesamt pro Person (7500€ für Flutkind)
+- 1500€ Spesen und 10k gesamt pro Person (7500€ für [[Flutkind]])
 - Auftrag: Finde den Mörder von [[Birdie]]
 - Dazu: mit [[Lockvogel]] die Termine wahr nehmen
 - Neuen Caddie Promoten
@@ -18,8 +18,27 @@ Infos von [[Arndt Bernhard Birkmann Alvarez]]:
 
 Ermittlungsergebnisse vor Ort:
 
-- **Täterbeschreibung:** Mittelgroß, schlank, recht jung, dunkler Kapu. Reagierte nicht auf Ansprache durch Personal.
-- **Spuren:** [[Brand]] fand Kugeln in den Wänden des Nebenraums.
-- **Personal:** Der Hausmeister [[Karl]] hat Tätowierungen, die laut [[Miro]] Verbindungen zu [[Big Willy]] aufweisen.
+- **Täterbeschreibung:** Mittelgroß, schlank, recht jung, dunkler Kapu. Reagierte nicht auf Ansprache durch Personal. Das Gesicht war schwarz gefärbt.
+- **Spuren:** [[Brand]] fand Kugeln in den Wänden des Nebenraums. Blutige Fußspuren führen zurück zur Herrentoilette. Dort wurde ein Fenster mit LowTech manipuliert (Einstiegs-/Fluchtpunkt). Draußen führen Fußspuren durch die Beete.
+- **Tathergang (Kameras):** Der Täter kam gegen 20:30 aus der Herrentoilette, ging Richtung Sauna, kehrte wegen Reinigungspersonal um, durchquerte Fitnessraum, Cafe, Restaurant und Lager zum Speisesaal. Nach der Tat floh er den gleichen Weg zurück zur Toilette.
+- **Personal:** 
+    - Der Hausmeister [[Karl]] hat Tätowierungen, die laut [[Miro]] Verbindungen zu [[Big Willy]] aufweisen. Er ließ sich bestechen und gab Mitarbeiterkleidung heraus.
+    - [[Hubert Kramer]] war zum Tatzeitpunkt Nachtwächter.
+    - [[Nana]] wird ebenfalls als Nachtwächter erwähnt.
+- **Gegenstände von Birdie:**
+    - Ein Kommlink mit Nachrichtenverlauf (PR-Team, Wolfgang).
+    -  [[Nanitencreme]] (High-End Schminke).
+    - Koffer mit extravaganter Kleidung (teils gepanzert) und Golfausrüstung.
+    - Golftasche enthält: Minicomputer, ~20 AACG Golfbälle, 14 Schläger, eine geladene [[Ares Predator]] mit 3 Magazinen.
+- **Sonstiges:** [[Flutkind]] sah eine Minidrohne im Fitnessraum, die Richtung Saunagarten verschwand.
+- **Feinde/Konkurrenten:** Ein gewisser [[Karom]] wird in Birdies Nachrichten als Widersacher erwähnt.
 
-Er scheint aber Informationen ausgelassen zu haben (insb. Details zum Treffen zwischen Wolfgang und Birdie).
+Nächste Schritte:
+- Infos über [[Birdie]] und [[Wolfgang]] (Hintergrundgeschichten) recherchieren.
+- Matrixdaten des Clubs weiter analysieren.
+- Nächste Termine von [[Birdie]] über die PR-Abteilung herausfinden.
+- [[Stryke]] als neuen Caddie etablieren und promoten.
+- Gepäck und Kommlink weiter untersuchen.
+- [[Karl]], [[Fiona]] und die Nachtwächter ([[Hubert Kramer]], [[Nana]]) interviewen.
+- Fährte hinter dem Toilettenfenster verfolgen ([[Stryke]]).
+

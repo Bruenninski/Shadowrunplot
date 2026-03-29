@@ -15,3 +15,5 @@ Detailgrad der Beschreibungen auf der Liste.
 Gegenstände in dem Bereich, die das Ziel nicht per
 Sicht erkennen würde, werden als „unbekannt“ vermerkt.
 Das Ziel muss den Zielbereich des Zaubers berühren.
+
+S.295

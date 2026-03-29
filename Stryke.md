@@ -36,13 +36,17 @@ Stryke ist ein Ork mit fundierter **militärischer Ausbildung**. Er ist der takt
 ### [[Quest The Bird is the Word]]
 *   Fand heraus, dass sein Handy gehackt wurde, um eine Nachricht zu platzieren (Militär- oder Konzernhintergrund).
 *   Lieferte Informationen über eine **Revolte in [[Big Willy]]** und geheimnisvolle Zelte bei **[[Blohm und Voss]]**.
-*   Ermittelte im **[[Bernd Alvares Golfclub]]**, getarnt durch einen teuren Anzug.
+*   Recherchierte Zugangsbeschränkungen nach [[Stormarn]], fand aber keine offiziellen Hürden.
+*   Infiltrierte den **[[Bernd Alvares Golfclub]]**, getarnt durch einen teuren Anzug.
+*   Soll eventuell als neuer Caddie für den [[Lockvogel]] ([[Flutkind]]) aufgebaut und promotet werden.
+*   Verfolgt aktuell die Fährte des Mörders hinter dem manipulierten Toilettenfenster.
+
 
 ---
 
 ## Soziales Netzwerk (Connections)
 
-*   **[[Maya]]**: Seine Kontaktperson in seiner Stammbar, die ihm hilft, verschlüsselte Dateien zu knacken.
+*   **[[Maya]]**: Seine Kontaktperson in seiner Stammbar Havn, die ihm hilft, verschlüsselte Dateien zu knacken.
 *   **[[Loki]]**: Sein Hund und wichtigster Partner im Alltag.
 *   **[[Cäptn Iglu]]**: Ein Kontakt, der ihm und [[Flutkind]] half, **[[Wild Ost]]** zu verlassen.
 *   **[[Grimm]]**: Ein Schieber, für den er Aufträge (wie die Cadillac-Beschaffung) erledigt.
