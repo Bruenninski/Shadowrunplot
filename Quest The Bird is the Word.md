@@ -95,7 +95,7 @@ Sie überlegen, dass sie
 - Karl und Fiona interviewen
 
 [[Miro]] fragt [[Fiona]] wo die Koffer sind. [[Miro]] erhält die Kommlinks und einen Pappkarton. 
-In dem Karton sind ein Handy und eine [[Nanitencreme]]. In den Koffern sind alle möglichen Arten von Klamotten und in dem einen Koffer seine Golfausrüstung. 
+In dem Karton sind ein Handy und eine [[Nanitencreme]]. In den Koffern sind alle möglichen Arten von Klamotten und in dem einen Koffer [[Birdie]] Gsolfausrüstung. 
 Es ist Extravagantes dabei von Leder mit eingenähter Panzerung bis Anzug und für heiß bis kalt. Kulturbeutel etc.
 [[Stryke]] macht eine schnelle suche nach Masken um eventuell Schutz zu gewährleisten. Er bestellt dann einen Maskenrohling bei [[Maya]]
 
@@ -121,6 +121,39 @@ Er hat außerdem das Gesicht schwarz gefärbt und bewegt sich so, dass er schlec
 Er stellt fest, dass eines der Fenster mit LowTech manipuliert wurde.
 Er sieht ein paar Fußspuren durch die Beete dahinter führen.
 Die anderen kommen hinterher und [[Stryke]] versucht die Fährte zu lesen. 
-[[Arndt Bernhard Birkmann Alvarez|ABBA]]
 
+---
+[[Stryke]]s Auto ist zugeparkt von einem aufgemotzten BMW Sportwagen, der 2 Autos dicht parkt.
+Danach gehen sie auf die Rückseite der Herrentoilette um die Fährte zu lesen.
+Die Fußabdrücke sind abgelatschte Kampfstiefel, Größe 42, die zur Straße führen und dann auf dem Asphalt verschwinden.
+Es kommen einige getunte Sportwagen. Von weiter weg kommt ein hoher Schmerzensschrei und etwas abseits stehen in einem Halbkreis etwa 7-8 menschliche Gestalten und eine Person liegt am Boden.
+[[Stryke]] informiert [[Brand]], der sein Auge schickt.
+[[Miro]] geht in Richtung des Halbkreises, [[Stryke]] und [[Flutkind]] folgen.
+Die Drohne erkennt 7 junge Menschen (5 Männer, 2 Frauen) die im Halbkreis um ein am Boden liegendes Bündel treten. die Menschen haben alle teure Designerkleidung an, der ein oder andere einen Knüppel.
+Am Boden liegt ein Kind in einem viel zu großen Bundeswehrparker.
+[[Miro]] beschwört einen Stufe 4 [[Luftgeist]] mit [[Grauen]] und 3 Diensten.
+[[Flutkind]] beschwört einen Stufe 3 [[Wassergeister]] mit [[Unfall]].
+Beim näher ran gehen fordert [[Miro]] sie auf, aufzuhören, was die aber verneinen.
+[[Flutkind]] lässt seinen Geist [[Unfall]] wirken. Daraufhin schlägt einer der Menschen mit Baseballschläger einer der Frauen ins Gesicht und drückt den Schockkopf und schickt sie damit zu Boden. [[Miro]]s Geist castet [[Grauen]] auf den Anführer, woraufhin dieser weg läuft.
+3 Leute sind mit Baseballschlägern bewaffnet, 2 mit Stiletts.
+Einer mit Baseballschläger greift [[Miro]] an, doch der duckt sich hinweg, einer mit Stiletto greift [[Flutkind]] an, doch auch der duckt sich weg.
+[[Flutkind]] befielt seinem Geist Unfall auf die Ganger zu wirken.
+[[Miro]] läuft hinter [[Stryke]].
+2 der Gegner versuchen auf [[Flutkind]] los zu stürmen straucheln und stürzen.  Der Letzte Angreifer stürmt los, fällt über seine Kameraden und liegt auch im Schlamm.
+[[Brand]] versucht eins der Autos zu hacken, scheitert daran und setzt einen anonymen Notruf ab für Erregung öffentlichen Ärgernisses.
+[[Stryke]] schießt einem der Gegner den Baseballschläger aus der Hand und läuft dann nach vorne um [[Flutkind]] zu unterstützen.
+Der mit dem Stiletto betont, dass das ja alles nicht so gemeint sei und die Ganger ziehen sich zurück. Das Kind ist in der Zeit weg gelaufen. 
+[[Miro]] tilgt astrale Signaturen der Zauber und geht dann mit [[Flutkind]] Richtung Herren WC zu [[Brand]].
+Zeit etwa 13:00
+Strategiebesprechung:
+- herausfinden von infos über all area combat golf
+- wo ist das Kommlink von [[Wolfgang]]? [[Fiona]] fragen? Danach [[Arndt Bernhard Birkmann Alvarez|ABBA]]
+- Wann wurde der Termin fürs Essen erstellt?
+- [[Birdie]]s Hotelzimmer ist bekannt [[Golfing Inn]], [[Wolfgang]]s nicht.
+- was war das für eine Drohne?
+- Außenkameras? für das Auto in das [[Birdies Mörder]] eingestiegen ist.
+- [[Stryke]] als Caddy aufbauen (verbreiten legal und Piratensender)
+- [[Arndt Bernhard Birkmann Alvarez|ABBA]] hat die Bediensteten am Abend des Essens weg geschickt, warum
+- Nicht von [[SSS]] erwischt werden
 
+Eine Doppelstreife von SSS Storman Security Service kommt mit 3 Autos an, einer ist ein 6   rädiger Wasserwerfer mit DoppelMG und 2 VANS. Dort steigen 3 Personen aus, einer sichert den Parkplatz, 2 gehen in den [[Bernd Alvares Golfclub]]
