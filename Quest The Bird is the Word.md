@@ -157,3 +157,69 @@ Strategiebesprechung:
 - Nicht von [[SSS]] erwischt werden
 
 Eine Doppelstreife von SSS Storman Security Service kommt mit 3 Autos an, einer ist ein 6   rädiger Wasserwerfer mit DoppelMG und 2 VANS. Dort steigen 3 Personen aus, einer sichert den Parkplatz, 2 gehen in den [[Bernd Alvares Golfclub]]
+
+---
+
+[[SSS]] stellt [[Fiona]] ein paar Fragen, was passiert ist, aber [[Fiona]] spielt das herunter und kurz später fahren [[SSS]] wieder zurück.
+[[Brand]] stellt fest, dass [[Birdie]] im [[Golfing Inn]] das Zimmer bestellt hat, aber noch nicht bezogen.
+[[Stryke]] guckt etwa eine halbe Stunde im Auto Combat Golf Videos. [[Brand]] geht zu [[Stryke]] ins Auto um Informationen über das Combat Golfing heraus zu finden. 
+Er findet folgendes raus:
+- Combat golf: keine offizielle Sportart, Spieler werden wegen Straftaten gesucht. Wird in Innenstädten gespielt
+- Matches werden von Buchmachern mit Mafiakontakten 
+- Neben Schläger: Handscanner und Waffen
+- Caddie: tagen der Schläger, Spielbehinderungen verhindern (z.B. mit Taser)
+- Magier sichern gegen Sicherheitskräfte
+- Beide Spieler erhalten gleichzeitig die Zielperson
+- Ziel: mit möglichst wenig Schlägen an den Spielkreis
+- Max 14 Schläger (normale)
+- magische Fertigkeiten sind vorher bekannt zu geben
+- nach ersten schlag geht es los
+- Gegner darf nicht verletzt werden
+- bewegliche Ziele dürfen bewegt werden (mit Waffen etc)
+- Critter müssen getötet und aufgeschlitzt werden, wenn sie den Ball fressen
+- Sprengstoffe auf minimum beschränken
+- gewonnen hat, wer überlebt und die wenigsten Schläge benötigt
+
+[[Birdie]] war publikumsliebling, mischung aus guten sportler und lausbub mit dramatischen auftreten, lockere Sprüche, charismatisch
+in der Liga: bislang viertel und halbfinale
+größter Konkurent Zwergin [[Karom]] konkurent hat nur wegen erste Hilfe von Caddie überlebt
+[[Birdie]] hat [[Polo]] eine tchechische Zentaurin besiegt mit Finte, über die die Sportwelt heute noch lacht (Birdie hat mit seinem Ball ihren Ball auf ein Ponton geschicht) sie musste halb von Ponton spielen, [[Wolfgang]] hat dann die Taue durch geschossen und sie den Schlag verhauen
+
+[[Salvatore Puttingreen]] ehemailier Favorit ging der Polizei ins Netz
+[[Peter Sand Pit]] guter Techniker, für ihn war im Halbfinale Schluss
+
+[[Wolfgang]] und [[Birdie]] spielen seit 3 Seasons, [[Birdie]] hätte vermutlich das Finale normalerweise nicht erreicht, hatte aber Glück
+gibt japaner (Triaden), Russen und Holländer als Gangs, die eventuell involviert sind
+
+Halbfinale war in Köln, ein Schiff ist dabei in eine Brücke gefahren, es gab Milliardenschäden. 
+
+[[Arndt Bernhard Birkmann Alvarez|ABBA]]: Golfclub läuft richtig gut. Den Club hat er on the fly gegründet, es wird gemunkelt, er habe selber mal combat golf gespielt, konnte es aber geheimhalten. Hat in der Community so richtig abgesahnt und mit dem Geld den Club gegründet. Ist aber etwas in die Jahre gekommen, also vermutlich keine aktive Karriere mehr (vermutlich eher so 20 Jahre her), den Golfclub gibt es schon so 10-15 Jahre, manche sagen er hieß bolt, andere er hieß Slayer oder Putter, aber das verliert sich im Sumpf der Spekulationen.
+
+Man muss gut vernetzt sein und gute Connections haben, zu Mafia oder Polizei etc in ganz Deutschland um mit eigenem Gesicht zu spielen, aber nicht geschnappt zu werden. ([[Birdie]])
+Seine Technik und sein Caddie sind über die letzten Seasons besser geworden und gewachsen.  Angeblich waren [[Birdie]] und [[Wolfgang]] best friends forever.
+In den Interviews oft zu zweit, meistens wurde mal de reine, mal der andere gefragt und sie spielen sich die Bälle zu. Viele Interviews vor den Spielen
+
+---
+13:30
+[[Flutkind]] und [[Miro]] fragen [[Fiona]] nach [[Wolfgang]]s Kommlink, sie verweist aber auf [[Karl]].
+Der ist am putzen auf Nachfrage will er aber nichts über das Kommlink wissen. 
+[[Miro]] "kauft" das Kommlink von [[Wolfgang]] von [[Karl]] für 200 Tacken und macht sich dann mit [[Flutkind]] auf den Weg zu [[Stryke]] und [[Brand]].
+[[Miro]] gibt [[Brand]] das Kommlink. Dieser versucht die Daten alle abzusaugen. 
+[[Wolfgang]] ist in Pinneberg (schlechte Gegend) im Sarghotel [[The Spindlers]] abgestiegen und hat es für 5 Nächte im voraus gebucht (gestern Mittag gebucht), es sind Nachrichten da, dass [[Birdie]] zum Essen bei [[Arndt Bernhard Birkmann Alvarez|ABBA]] geladen hat, ansonsten eher Gespräche mit Freunden.
+[[Brand]] schickt die Telefonbucheinträge an die Gruppe.
+[[Miro]] hat schon von [[Vlad]], einem hamburger Drogenboss der an viel scheiß ran kommt. Er steht in Verbindung mit [[Vory]] der Russenmafia.
+[[Flutkind]] hat von [[Snapper Dave]], der mit den Wickerdealern, den Holländern zu tun hat gehört.
+Caddie Geschichte:
+[[Wolfgang]] stirbt an einer entzündetes Schrapnell, das übersehen wurde und er sich vor einigen Spielen eingefangen hatte. eine Adrenalinspritze half auch nicht mehr.
+Der neue Caddie heißt [[Wellenbrecher]] 
+- Katastrophe in den Katakomben der Euro-Docks vor 4 Jahren
+- Explosion einer chemischen Konzernanlage 
+- Illegale Squatter und Tagelöhner eingeschlossen.
+- Einbruch von toxischem Elbwasser und Critterratten, die in Panik angriffen
+- Als Vorarbeiter tätig, Die Konzernschergen waren geflohen, in den Fluten gestorben oder von den Ratten übermannt. 
+- Wellenbrecher schloss ein verbogenes Flutschott so gut es geht und wehrte 4 stunden lang angreifende Ratten ab.
+- Gerüchte sagen, dass er bei einem Rattenangriff schwerste Verätzungen im Gesicht erlitten hat
+
+[[Flutkind]] ruft [[Long Dong Silver]] an, ob er in seinem Schattensender verbreiten kann, dass [[Wolfgang]] gestorben ist. Er lädt [[Flutkind]] zu seiner Schallupe ein, um dort ein Interview auf seinem Piratensender zu bekommen. [[Flutkind]] erzählt ihm, dass er die Leiche von [[Wolfgang]] gesehen habe. [[Flutkind]] erzählt ihm, dass sie die Story verbreiten sollten, dass er bei einem Arzt gestorben sei, weil der Mörder noch frei herum läuft.
+
+[[Brand]] ruft bei seiner Schwester an. Es geht sofort die Mailbox ran, die sagt, bei was wichtigem soll man vorbei kommen. 
